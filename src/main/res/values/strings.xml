@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator Age</string>
+    <string name="judul">Hitung Umur Sekarang</string>
+    <string name="namalengkap">Nama Lengkap</string>
+    <string name="tanggallahir">Tanggal Lahir</string>
+    <string name="btn">Hitung Umur</string>
+    <string name="urAge">Umurmu</string>
+
+</resources>
